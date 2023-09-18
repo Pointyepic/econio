@@ -1,6 +1,6 @@
 # Creative Economic Project: Econ.io
 
-Econ.io is an online multiplayer game where players are nations that compete against each other to achieve the highest possible GDP. The game uses Node.JS and Socket.io, along with HTML and CSS. It is based on Victor Zhou's tutorial on building a Multiplayer io game (https://victorzhou.com/blog/build-an-io-game-part-1/)
+Econ.io is an online multiplayer game where players are nations that compete against each other to achieve the highest possible GDP. The game uses Node.JS and Socket.io, along with HTML and CSS. It is adpated from Victor Zhou's tutorial on building a Multiplayer io game (https://victorzhou.com/blog/build-an-io-game-part-1/)
 
 Economics concepts covered:
 GDP/Full Employment GDP
